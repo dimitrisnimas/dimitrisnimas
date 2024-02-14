@@ -3,7 +3,7 @@
 Passionate about the convergence of technology and innovation, I am currently pursuing my degree in Computer Science and Engineering at the University of Ioannina. My heart lies in networking systems, where I delve into the intricacies of creating robust and efficient connections.
 
 # </> Developer
-Junior developer proficient in Python, Java, C, HTML, CSS, JavaScript, and C. Commited to leveraging technology for innovation and user-centric solutions.
+Junior developer proficient in Python, Java, C, HTML, CSS, JavaScript, and C. Committed to leveraging technology for innovation and user-centric solutions.
 
 # 💻 Web Design
 
