@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 I’m currently working on **Online Delivery App, Members Management App**
+Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 I’m currently working on **Online Delivery App, Members Management App, Online Voting System**
 
 
 ## 🌐 Socials:
