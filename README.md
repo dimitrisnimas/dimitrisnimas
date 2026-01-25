@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 I’m currently working on **Online Delivery App, Members Management App, Online Voting System**
+Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 Actively developing **KUBIK Workspace** and **TeamFinder**.<br>
+Other projects (**Online Delivery**, **Members Management App**, **Online Voting System**) are works in progress and updated intermittently.
 
 
 ## 🌐 Socials:
