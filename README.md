@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 Actively developing **KUBIK Workspace** and **TeamFinder**.<br>
+Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 Actively developing **KUBIK Workspace**, **TeamFinder** and other apps on public and private repos.<br>
 Other projects (**Online Delivery**, **Members Management App**, **Online Voting System**) are works in progress and updated intermittently.
 
 
