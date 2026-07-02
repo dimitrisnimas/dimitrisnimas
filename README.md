@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 Actively developing **KUBIK Nexus**, **TeamFinder** and other apps on public and private repos.<br>
-Other projects (**Online Delivery**, **Members Management App**, **Online Voting System**) are works in progress and updated intermittently.
+Hi 👋, I'm Dimitris<br><br>A Full Stack Developer from Greece <br><br>- 🔭 Actively developing **KUBIK Nexus**, **Voting System** and other apps on public and private repos.<br>
+Other projects (**Online Delivery**, **Members Management App**, **Team Finder**) are works in progress and updated intermittently.
 
 
 ## 🌐 Socials:
