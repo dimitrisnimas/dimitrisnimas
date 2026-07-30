@@ -71,18 +71,11 @@ I build scalable SaaS platforms, business applications, and high-performance web
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dimitrisnimas&show_icons=true&theme=transparent&hide_border=true"
-    alt="Dimitris' GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrisnimas&layout=compact&theme=transparent&hide_border=true"
-    alt="Dimitris' Top Languages"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisnimas&theme=github-dark&hide_border=true"
+    alt="Dimitris' GitHub Activity Graph"
   />
 </p>
