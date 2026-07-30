@@ -1,8 +1,9 @@
 # Hi 👋 I'm Dimitris
 
-**Full Stack Developer** • **Founder of KUBIK** 🇬🇷
+**Full Stack Developer** • **Founder of KUBIK**
 
 I build scalable SaaS platforms, business applications, and high-performance web solutions.
+
 
 ## 🚀 Current Projects
 
@@ -10,16 +11,19 @@ I build scalable SaaS platforms, business applications, and high-performance web
 - 🛡️ **SafeTogether** *(In Progress)* – Workplace Safety & Incident Management Platform
 - ⚽ **Buddi** *(In Progress)* – Social sports platform for finding teammates, organizing games, and booking sports venues.
 
+
 ## 💼 What I Do
 
 - ⚡ Building modern applications with **Next.js**, **React**, **NestJS**, **.NET**, and **PostgreSQL**
 - 🔗 Developing ERP integrations, APIs, authentication systems, and multi-tenant SaaS platforms
 - 🚀 Delivering production software through **KUBIK**
 
+
 ## 🌍 Websites
 
 - 🌐 **KUBIK** → https://kubik.gr
 - 👨‍💻 **Portfolio** → https://dimitrisnimas.gr
+
 
 ## 🌐 Connect With Me
 
@@ -27,6 +31,7 @@ I build scalable SaaS platforms, business applications, and high-performance web
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dimitrisnimas)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimitris_nimas)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dimitrisnimas.gr)
+
 
 ## 💻 Main Stack
 
@@ -38,10 +43,12 @@ I build scalable SaaS platforms, business applications, and high-performance web
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
 ### ⚛️ Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ### 🛠 Backend
 
@@ -49,10 +56,12 @@ I build scalable SaaS platforms, business applications, and high-performance web
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+
 ### 🗄 Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### ☁️ Cloud & DevOps
 
@@ -61,19 +70,19 @@ I build scalable SaaS platforms, business applications, and high-performance web
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dimitrisnimas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrisnimas&layout=donut&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dimitrisnimas&show_icons=true&theme=transparent&hide_border=true"
+    alt="Dimitris' GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dimitrisnimas&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisnimas&theme=github-dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrisnimas&layout=compact&theme=transparent&hide_border=true"
+    alt="Dimitris' Top Languages"
+  />
 </p>
