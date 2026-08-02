@@ -6,7 +6,7 @@ I build scalable SaaS platforms, business applications, and high-performance web
 
 
 ## 🚀 Current Projects
-
+![Private development activity](https://repopulse.kubik.gr/api/cards/private-activity?theme=midnight&width=680)
 - 🧩 **KUBIK Nexus** – Business & Client Management Platform
 - 🛡️ **SafeTogether** *(In Progress)* – Workplace Safety & Incident Management Platform
 - ⚽ **Buddi** *(In Progress)* – Social sports platform for finding teammates, organizing games, and booking sports venues.
