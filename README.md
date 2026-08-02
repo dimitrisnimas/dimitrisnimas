@@ -70,18 +70,3 @@ I build scalable SaaS platforms, business applications, and high-performance web
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dimitrisnimas&theme=github-dark&hide_border=true"
-    alt="Dimitris' GitHub Activity Graph"
-  />
-</p>
-
-
-## 📈 Try RepoPulse (repopulse.kubik.gr)
-
-![RepoPulse Overview card](https://repopulse.kubik.gr/api/cards/overview?theme=midnight&width=520&hide_border=false&username=dimitrisnimas&show_avatar=true&show_icons=true)
