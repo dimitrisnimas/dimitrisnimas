@@ -1,72 +1,65 @@
-# Hi 👋 I'm Dimitris
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=220&section=header&text=Dimitris%20Nimas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20of%20KUBIK&descAlignY=56&descSize=18" width="100%"/>
+</p>
 
-**Full Stack Developer** • **Founder of KUBIK**
+<p align="center">
+  <a href="https://kubik.gr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=I+build+scalable+SaaS+platforms+%F0%9F%9A%80;Multi-tenant+apps+%E2%80%A2+ERP+integrations+%E2%80%A2+APIs;Next.js+%2B+NestJS+%2B+.NET+%2B+PostgreSQL;Shipping+production+software+through+KUBIK" alt="Typing SVG"/>
+  </a>
+</p>
 
-I build scalable SaaS platforms, business applications, and high-performance web solutions.
+<p align="center">
+  <a href="https://kubik.gr"><img src="https://img.shields.io/badge/KUBIK-kubik.gr-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://dimitrisnimas.gr"><img src="https://img.shields.io/badge/Portfolio-dimitrisnimas.gr-06B6D4?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/dimitrisnimas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/dimitrisnimas"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/dimitris_nimas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/dimitrisnimas.gr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+</p>
 
+---
 
-## 🚀 Current Projects
+## 🚀 Currently Building
 
-![Private activity](https://repopulse.kubik.gr/activity.svg)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SafeTogether</h3>
+      <p>Workplace Safety & Incident Management Platform</p>
+      <img src="https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚽ Buddi</h3>
+      <p>Social sports platform — find teammates, organize games, book venues.</p>
+      <img src="https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
-- 🛡️ **SafeTogether** *(In Progress)* – Workplace Safety & Incident Management Platform
-- ⚽ **Buddi** *(In Progress)* – Social sports platform for finding teammates, organizing games, and booking sports venues.
-
+<p align="center">
+  <img src="https://repopulse.kubik.gr/activity.svg" alt="Private activity" width="100%"/>
+</p>
 
 ## 💼 What I Do
 
-- ⚡ Building modern applications with **Next.js**, **React**, **NestJS**, **.NET**, and **PostgreSQL**
-- 🔗 Developing ERP integrations, APIs, authentication systems, and multi-tenant SaaS platforms
-- 🚀 Delivering production software through **KUBIK**
+```ts
+const dimitris = {
+  role: "Full Stack Developer & Founder @ KUBIK",
+  builds: ["SaaS platforms", "Business applications", "High-performance web"],
+  specialties: ["ERP integrations", "APIs", "Auth systems", "Multi-tenancy"],
+  stack: ["Next.js", "React", "NestJS", ".NET", "PostgreSQL"],
+  basedIn: "Greece 🇬🇷",
+};
+```
 
+## 🧰 Tech Stack
 
-## 🌍 Websites
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,php,py,react,nextjs,nestjs,dotnet,nodejs,postgres,mysql,azure,cloudflare,githubactions,git&perline=8" />
+</p>
 
-- 🌐 **KUBIK** → https://kubik.gr
-- 👨‍💻 **Portfolio** → https://dimitrisnimas.gr
-
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimitrisnimas)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dimitrisnimas)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimitris_nimas)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dimitrisnimas.gr)
-
-
-## 💻 Main Stack
-
-### 💙 Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-### ⚛️ Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-### 🛠 Backend
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
-### 🗄 Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### ☁️ Cloud & DevOps
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=120&section=footer" width="100%"/>
+</p>
